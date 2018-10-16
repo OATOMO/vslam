@@ -1,0 +1,3 @@
+//opt/git_Atom/SLAM_study/s01/01_test_CMake/share/doc/cmake/t2/COPYRIGHT
+//opt/git_Atom/SLAM_study/s01/01_test_CMake/share/doc/cmake/t2/README
+//opt/git_Atom/SLAM_study/s01/01_test_CMake/bin/runhello.sh
